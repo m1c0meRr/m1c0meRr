@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hello,%20World!&fontSize=45&animation=twinkling&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=62&descAlign=50)
 
 ```swift
-class M1c0meRr: UiDeveloper {
+class M1c0meRr: UIDeveloper {
 
-  privete let fullName = "Sergey Savinkov"
+  private let fullName = "Sergey Savinkov"
   private var country = "Russian Federation"
   private var age = 27
 
